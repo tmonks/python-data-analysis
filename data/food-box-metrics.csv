@@ -1,0 +1,484 @@
+customer,distribution_method,date,planned_method,final_method,completed_at,last_box_date,weekday,hour,morning_afternoon,is_unenrolled,deviation_from_plan,deviation_from_current,deviation_summary
+Customer 3,pickup,2022-06-24,pickup,pickup,2022-06-25 11:45:05-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 53,pickup,2022-06-24,pickup,pickup,2022-06-24 17:03:31-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-06-24,pickup,pickup,2022-06-24 16:08:30-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 27,pickup,2022-06-24,pickup,pickup,2022-06-25 14:55:45-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 2,delivery,2022-06-24,pickup,pickup,2022-06-25 11:29:58-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 20,pickup,2022-06-24,pickup,pickup,2022-06-24 10:42:55-04:00,,Friday,10,Morning,False,0,0,as planned
+Customer 8,pickup,2022-06-24,pickup,pickup,2022-06-25 12:12:11-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 23,pickup,2022-06-24,pickup,pickup,2022-06-25 15:45:03-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 43,pickup,2022-06-24,pickup,pickup,2022-06-25 15:23:09-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 49,pickup,2022-06-24,pickup,pickup,2022-06-25 10:19:18-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 7,pickup,2022-06-24,pickup,pickup,2022-06-25 14:55:38-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-06-24,delivery,pickup,2022-06-24 14:14:06-04:00,,Friday,14,Afternoon,False,1,0,as planned
+Customer 28,pickup,2022-06-24,pickup,pickup,2022-06-25 13:15:15-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 24,pickup,2022-06-24,delivery,pickup,2022-06-25 15:23:08-04:00,,Saturday,15,Afternoon,False,1,0,as planned
+Customer 19,pickup,2022-06-24,pickup,pickup,2022-06-24 11:35:04-04:00,,Friday,11,Morning,False,0,0,as planned
+Customer 50,pickup,2022-06-24,pickup,pickup,2022-06-24 16:38:22-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 48,pickup,2022-06-24,pickup,pickup,2022-06-25 10:19:04-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 4,pickup,2022-06-24,pickup,pickup,2022-06-25 16:22:27-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 14,pickup,2022-06-24,pickup,pickup,2022-06-24 16:08:18-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 12,pickup,2022-06-24,pickup,pickup,2022-06-25 11:07:25-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 39,pickup,2022-06-24,pickup,pickup,2022-06-25 14:55:42-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 42,pickup,2022-06-24,pickup,pickup,2022-06-24 11:29:08-04:00,,Friday,11,Morning,False,0,0,as planned
+Customer 3,pickup,2022-07-01,pickup,pickup,2022-07-02 12:40:29-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 6,pickup,2022-07-01,pickup,pickup,2022-07-01 12:46:16-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 40,delivery,2022-07-01,pickup,pickup,2022-07-01 10:36:01-04:00,,Friday,10,Morning,False,0,0,as planned
+Customer 27,pickup,2022-07-01,pickup,pickup,2022-07-02 10:49:58-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 2,delivery,2022-07-01,pickup,pickup,2022-07-01 13:05:25-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 20,pickup,2022-07-01,pickup,pickup,2022-07-01 09:00:01-04:00,,Friday,9,Morning,False,0,0,as planned
+Customer 8,pickup,2022-07-01,pickup,pickup,2022-07-01 16:29:59-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 23,pickup,2022-07-01,pickup,pickup,2022-07-01 16:51:23-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 1,pickup,2022-07-01,pickup,pickup,2022-07-02 14:33:55-04:00,2022-08-06,Saturday,14,Afternoon,True,0,0,as planned
+Customer 7,pickup,2022-07-01,pickup,pickup,2022-07-02 13:35:33-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-07-01,pickup,pickup,2022-07-01 15:39:33-04:00,,Friday,15,Afternoon,False,0,0,as planned
+Customer 28,pickup,2022-07-01,pickup,pickup,2022-07-02 11:43:47-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 19,pickup,2022-07-01,pickup,pickup,2022-07-01 11:12:48-04:00,,Friday,11,Morning,False,0,0,as planned
+Customer 50,pickup,2022-07-01,pickup,pickup,2022-07-01 16:48:42-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 48,pickup,2022-07-01,pickup,pickup,2022-07-01 12:46:04-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 14,pickup,2022-07-01,pickup,pickup,2022-07-01 16:22:28-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 12,pickup,2022-07-01,pickup,pickup,2022-07-01 14:44:34-04:00,,Friday,14,Afternoon,False,0,0,as planned
+Customer 39,pickup,2022-07-01,pickup,pickup,2022-07-02 13:35:41-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 29,pickup,2022-07-01,pickup,pickup,2022-07-02 14:58:47-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 3,pickup,2022-07-08,pickup,pickup,2022-07-09 12:27:29-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 6,pickup,2022-07-08,pickup,pickup,2022-07-08 13:49:51-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 53,pickup,2022-07-08,pickup,delivery,2022-07-09 18:58:27-04:00,,Saturday,18,Afternoon,False,1,1,delivery
+Customer 17,pickup,2022-07-08,pickup,delivery,2022-07-09 19:22:31-04:00,2022-07-22,Saturday,19,Afternoon,True,1,1,delivery
+Customer 40,delivery,2022-07-08,pickup,pickup,2022-07-09 10:37:24-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 11,delivery,2022-07-08,delivery,delivery,2022-07-08 18:12:24-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-07-08,pickup,pickup,2022-07-09 16:48:56-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 27,pickup,2022-07-08,pickup,pickup,2022-07-09 15:41:18-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 2,delivery,2022-07-08,pickup,pickup,2022-07-08 16:32:38-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 20,pickup,2022-07-08,pickup,pickup,2022-07-08 09:20:28-04:00,,Friday,9,Morning,False,0,0,as planned
+Customer 25,pickup,2022-07-08,pickup,reallocate,2022-07-09 18:06:05-04:00,2022-07-01,Saturday,18,Afternoon,True,1,1,reallocate
+Customer 23,pickup,2022-07-08,pickup,pickup,2022-07-09 10:23:49-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 0,delivery,2022-07-08,delivery,delivery,2022-07-09 18:58:23-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 43,pickup,2022-07-08,pickup,pickup,2022-07-09 15:04:49-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 16,delivery,2022-07-08,delivery,delivery,2022-07-08 18:12:26-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 35,pickup,2022-07-08,pickup,delivery,2022-07-09 19:32:01-04:00,,Saturday,19,Afternoon,False,1,1,delivery
+Customer 32,pickup,2022-07-08,pickup,pickup,2022-07-09 13:32:51-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 49,pickup,2022-07-08,pickup,delivery,2022-07-09 19:40:56-04:00,,Saturday,19,Afternoon,False,1,1,delivery
+Customer 7,pickup,2022-07-08,pickup,pickup,2022-07-09 14:57:44-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-07-08,pickup,pickup,2022-07-09 10:05:50-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 36,delivery,2022-07-08,pickup,delivery,2022-07-08 20:28:49-04:00,,Friday,20,Afternoon,False,1,0,as planned
+Customer 22,delivery,2022-07-08,pickup,delivery,2022-07-09 18:58:33-04:00,,Saturday,18,Afternoon,False,1,0,as planned
+Customer 34,pickup,2022-07-08,pickup,pickup,2022-07-09 18:30:14-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 24,pickup,2022-07-08,pickup,delivery,2022-07-08 18:12:28-04:00,,Friday,18,Afternoon,False,1,1,delivery
+Customer 30,delivery,2022-07-08,pickup,delivery,2022-07-09 18:58:35-04:00,,Saturday,18,Afternoon,False,1,0,as planned
+Customer 15,delivery,2022-07-08,delivery,delivery,2022-07-08 18:12:25-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 9,delivery,2022-07-08,pickup,delivery,2022-07-09 19:24:53-04:00,,Saturday,19,Afternoon,False,1,0,as planned
+Customer 19,pickup,2022-07-08,pickup,pickup,2022-07-08 10:58:52-04:00,,Friday,10,Morning,False,0,0,as planned
+Customer 50,pickup,2022-07-08,pickup,pickup,2022-07-09 11:45:19-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 33,delivery,2022-07-08,pickup,delivery,2022-07-08 20:28:48-04:00,,Friday,20,Afternoon,False,1,0,as planned
+Customer 48,pickup,2022-07-08,pickup,pickup,2022-07-08 13:51:38-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 26,delivery,2022-07-08,delivery,delivery,2022-07-08 20:28:42-04:00,,Friday,20,Afternoon,False,0,0,as planned
+Customer 31,delivery,2022-07-08,delivery,delivery,2022-07-08 20:28:47-04:00,,Friday,20,Afternoon,False,0,0,as planned
+Customer 55,delivery,2022-07-08,pickup,delivery,2022-07-08 20:28:44-04:00,,Friday,20,Afternoon,False,1,0,as planned
+Customer 14,pickup,2022-07-08,pickup,pickup,2022-07-09 11:43:51-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 39,pickup,2022-07-08,pickup,pickup,2022-07-09 14:57:56-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 42,pickup,2022-07-08,pickup,reallocate,2022-07-09 18:06:04-04:00,,Saturday,18,Afternoon,False,1,1,reallocate
+Customer 45,pickup,2022-07-08,pickup,reallocate,2022-07-09 14:44:06-04:00,2022-07-01,Saturday,14,Afternoon,True,1,1,reallocate
+Customer 29,pickup,2022-07-08,pickup,pickup,2022-07-08 16:07:19-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 10,pickup,2022-07-08,pickup,pickup,2022-07-09 16:27:22-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 5,pickup,2022-07-08,pickup,reallocate,2022-07-09 18:30:24-04:00,2022-08-06,Saturday,18,Afternoon,True,1,1,reallocate
+Customer 52,delivery,2022-07-08,delivery,delivery,2022-07-08 20:28:43-04:00,,Friday,20,Afternoon,False,0,0,as planned
+Customer 3,pickup,2022-07-15,pickup,pickup,2022-07-15 17:18:04-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 6,pickup,2022-07-15,pickup,pickup,2022-07-16 09:42:21-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 40,delivery,2022-07-15,pickup,delivery,2022-07-16 14:55:43-04:00,,Saturday,14,Afternoon,False,1,0,as planned
+Customer 11,delivery,2022-07-15,delivery,delivery,2022-07-15 16:32:17-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-07-15,pickup,pickup,2022-07-16 14:19:43-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 27,pickup,2022-07-15,pickup,pickup,2022-07-16 13:30:21-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 2,delivery,2022-07-15,pickup,delivery,2022-07-16 17:16:57-04:00,,Saturday,17,Afternoon,False,1,0,as planned
+Customer 20,pickup,2022-07-15,pickup,pickup,2022-07-15 16:13:04-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 8,pickup,2022-07-15,pickup,pickup,2022-07-16 11:45:46-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 23,pickup,2022-07-15,pickup,pickup,2022-07-16 09:37:43-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 0,delivery,2022-07-15,delivery,delivery,2022-07-16 16:11:43-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 16,delivery,2022-07-15,delivery,delivery,2022-07-16 14:55:42-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 35,pickup,2022-07-15,pickup,pickup,2022-07-15 17:19:41-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 1,pickup,2022-07-15,pickup,reallocate,2022-07-16 12:29:00-04:00,2022-08-06,Saturday,12,Morning,True,1,1,reallocate
+Customer 49,pickup,2022-07-15,pickup,delivery,2022-07-16 17:30:46-04:00,,Saturday,17,Afternoon,False,1,1,delivery
+Customer 7,pickup,2022-07-15,pickup,pickup,2022-07-16 14:45:14-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-07-15,pickup,pickup,2022-07-16 17:25:04-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 36,delivery,2022-07-15,pickup,delivery,2022-07-15 16:32:10-04:00,,Friday,16,Afternoon,False,1,0,as planned
+Customer 28,pickup,2022-07-15,pickup,pickup,2022-07-16 15:10:22-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 24,pickup,2022-07-15,pickup,delivery,2022-07-16 17:16:58-04:00,,Saturday,17,Afternoon,False,1,1,delivery
+Customer 13,pickup,2022-07-15,pickup,reallocate,2022-07-16 12:29:00-04:00,2022-08-06,Saturday,12,Morning,True,1,1,reallocate
+Customer 15,delivery,2022-07-15,delivery,delivery,2022-07-15 16:32:14-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 9,delivery,2022-07-15,pickup,delivery,2022-07-16 14:55:41-04:00,,Saturday,14,Afternoon,False,1,0,as planned
+Customer 19,pickup,2022-07-15,pickup,pickup,2022-07-15 16:12:52-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 50,pickup,2022-07-15,pickup,pickup,2022-07-16 12:38:57-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 33,delivery,2022-07-15,pickup,delivery,2022-07-16 14:55:42-04:00,,Saturday,14,Afternoon,False,1,0,as planned
+Customer 48,pickup,2022-07-15,pickup,pickup,2022-07-16 16:37:06-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 26,delivery,2022-07-15,delivery,delivery,2022-07-16 14:55:38-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 31,delivery,2022-07-15,delivery,delivery,2022-07-15 16:32:12-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 55,delivery,2022-07-15,pickup,delivery,2022-07-16 14:55:40-04:00,,Saturday,14,Afternoon,False,1,0,as planned
+Customer 14,pickup,2022-07-15,pickup,pickup,2022-07-15 16:12:41-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 12,pickup,2022-07-15,pickup,pickup,2022-07-16 14:56:08-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 39,pickup,2022-07-15,pickup,pickup,2022-07-16 14:45:07-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 42,pickup,2022-07-15,pickup,pickup,2022-07-15 13:39:54-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 29,pickup,2022-07-15,pickup,pickup,2022-07-16 12:21:12-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 10,pickup,2022-07-15,pickup,pickup,2022-07-15 16:12:17-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 5,pickup,2022-07-15,pickup,pickup,2022-07-16 14:48:54-04:00,2022-08-06,Saturday,14,Afternoon,True,0,0,as planned
+Customer 52,delivery,2022-07-15,delivery,delivery,2022-07-16 17:16:56-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 1,pickup,2022-07-22,pickup,reallocate,2022-07-29 14:00:54-04:00,2022-08-06,Friday,14,Afternoon,True,1,1,reallocate
+Customer 3,pickup,2022-07-29,pickup,pickup,2022-07-30 13:32:01-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 6,pickup,2022-07-29,pickup,pickup,2022-07-29 16:09:59-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 53,pickup,2022-07-29,pickup,pickup,2022-07-30 15:42:46-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 40,delivery,2022-07-29,pickup,pickup,2022-07-30 12:20:56-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 11,delivery,2022-07-29,delivery,delivery,2022-07-29 18:39:49-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-07-29,pickup,pickup,2022-07-30 12:57:59-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 27,pickup,2022-07-29,pickup,reallocate,2022-08-03 16:56:47-04:00,,Wednesday,16,Afternoon,False,1,1,reallocate
+Customer 2,delivery,2022-07-29,pickup,pickup,2022-07-29 16:36:10-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 20,pickup,2022-07-29,pickup,pickup,2022-07-29 16:09:59-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 8,pickup,2022-07-29,pickup,pickup,2022-07-30 12:16:30-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 23,pickup,2022-07-29,pickup,reallocate,2022-07-29 18:40:01-04:00,,Friday,18,Afternoon,False,1,1,reallocate
+Customer 0,delivery,2022-07-29,delivery,delivery,2022-07-29 18:39:46-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 43,pickup,2022-07-29,pickup,pickup,2022-07-30 14:51:25-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 16,delivery,2022-07-29,delivery,delivery,2022-07-29 18:39:51-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 35,pickup,2022-07-29,pickup,delivery,2022-07-30 16:10:55-04:00,,Saturday,16,Afternoon,False,1,1,delivery
+Customer 32,pickup,2022-07-29,pickup,pickup,2022-07-30 15:34:03-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 1,pickup,2022-07-29,pickup,reallocate,2022-07-30 19:20:11-04:00,2022-08-06,Saturday,19,Afternoon,True,1,1,reallocate
+Customer 49,pickup,2022-07-29,pickup,pickup,2022-07-30 18:06:29-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 7,pickup,2022-07-29,pickup,pickup,2022-07-29 16:36:22-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-07-29,pickup,reallocate,2022-08-01 18:08:15-04:00,,Monday,18,Afternoon,False,1,1,reallocate
+Customer 36,delivery,2022-07-29,delivery,delivery,2022-07-29 18:39:54-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 22,delivery,2022-07-29,pickup,reallocate,2022-07-30 19:26:43-04:00,,Saturday,19,Afternoon,False,1,1,reallocate
+Customer 34,pickup,2022-07-29,pickup,pickup,2022-07-30 16:04:54-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 28,pickup,2022-07-29,pickup,pickup,2022-07-29 17:38:51-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 30,delivery,2022-07-29,pickup,delivery,2022-07-30 19:20:49-04:00,,Saturday,19,Afternoon,False,1,0,as planned
+Customer 13,pickup,2022-07-29,pickup,reallocate,2022-08-03 16:56:46-04:00,2022-08-06,Wednesday,16,Afternoon,True,1,1,reallocate
+Customer 15,delivery,2022-07-29,delivery,delivery,2022-07-29 18:39:51-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 9,delivery,2022-07-29,pickup,reallocate,2022-07-30 19:26:42-04:00,,Saturday,19,Afternoon,False,1,1,reallocate
+Customer 19,pickup,2022-07-29,pickup,pickup,2022-07-30 13:44:18-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 50,pickup,2022-07-29,pickup,pickup,2022-07-29 18:29:53-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 33,delivery,2022-07-29,pickup,delivery,2022-07-29 18:39:54-04:00,,Friday,18,Afternoon,False,1,0,as planned
+Customer 48,pickup,2022-07-29,pickup,pickup,2022-07-29 16:09:59-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 26,delivery,2022-07-29,delivery,delivery,2022-07-29 18:39:47-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 31,delivery,2022-07-29,delivery,delivery,2022-07-29 18:39:52-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 4,pickup,2022-07-29,pickup,reallocate,2022-07-30 19:20:14-04:00,,Saturday,19,Afternoon,False,1,1,reallocate
+Customer 55,delivery,2022-07-29,delivery,delivery,2022-07-29 18:39:48-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 14,pickup,2022-07-29,pickup,pickup,2022-07-29 16:09:59-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 12,pickup,2022-07-29,pickup,pickup,2022-07-30 12:58:07-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 39,pickup,2022-07-29,pickup,pickup,2022-07-29 16:36:29-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 42,pickup,2022-07-29,pickup,pickup,2022-07-29 16:09:59-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 29,pickup,2022-07-29,pickup,pickup,2022-07-29 16:09:59-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 10,pickup,2022-07-29,pickup,pickup,2022-07-30 12:23:17-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 5,pickup,2022-07-29,pickup,reallocate,2022-07-30 19:26:40-04:00,2022-08-06,Saturday,19,Afternoon,True,1,1,reallocate
+Customer 52,delivery,2022-07-29,delivery,delivery,2022-07-29 18:39:47-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 47,pickup,2022-07-29,pickup,pickup,2022-07-29 16:09:59-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 3,pickup,2022-08-05,pickup,pickup,2022-08-06 12:19:53-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 6,pickup,2022-08-05,pickup,pickup,2022-08-06 12:23:55-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 53,pickup,2022-08-05,pickup,reallocate,2022-08-06 21:45:54-04:00,,Saturday,21,Afternoon,False,1,1,reallocate
+Customer 40,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:38-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 11,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:24-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-08-05,pickup,pickup,2022-08-06 16:05:33-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 27,pickup,2022-08-05,pickup,pickup,2022-08-06 10:34:13-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 2,delivery,2022-08-05,pickup,pickup,2022-08-06 14:07:52-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 20,pickup,2022-08-05,pickup,pickup,2022-08-05 10:13:17-04:00,,Friday,10,Morning,False,0,0,as planned
+Customer 8,pickup,2022-08-05,pickup,pickup,2022-08-06 13:01:48-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 23,pickup,2022-08-05,pickup,pickup,2022-08-06 16:55:07-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 0,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:22-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 43,pickup,2022-08-05,pickup,pickup,2022-08-06 18:06:25-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 16,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:26-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 35,pickup,2022-08-05,pickup,pickup,2022-08-06 09:56:58-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 32,pickup,2022-08-05,pickup,pickup,2022-08-06 13:03:59-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 1,pickup,2022-08-05,pickup,reallocate,2022-08-06 21:47:54-04:00,2022-08-06,Saturday,21,Afternoon,True,1,1,reallocate
+Customer 49,pickup,2022-08-05,pickup,pickup,2022-08-06 16:33:23-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 7,pickup,2022-08-05,pickup,pickup,2022-08-06 12:35:56-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 41,pickup,2022-08-05,pickup,reallocate,2022-08-06 21:45:56-04:00,,Saturday,21,Afternoon,False,1,1,reallocate
+Customer 36,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:37-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 22,delivery,2022-08-05,pickup,delivery,2022-08-06 19:05:27-04:00,,Saturday,19,Afternoon,False,1,0,as planned
+Customer 34,pickup,2022-08-05,pickup,pickup,2022-08-06 15:01:49-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 28,pickup,2022-08-05,pickup,delivery,2022-08-06 21:45:47-04:00,,Saturday,21,Afternoon,False,1,1,delivery
+Customer 24,pickup,2022-08-05,pickup,delivery,2022-08-06 15:31:05-04:00,,Saturday,15,Afternoon,False,1,1,delivery
+Customer 30,delivery,2022-08-05,pickup,delivery,2022-08-06 19:05:29-04:00,,Saturday,19,Afternoon,False,1,0,as planned
+Customer 13,pickup,2022-08-05,pickup,reallocate,2022-08-06 21:47:56-04:00,2022-08-06,Saturday,21,Afternoon,True,1,1,reallocate
+Customer 15,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:25-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 9,delivery,2022-08-05,pickup,delivery,2022-08-05 21:55:23-04:00,,Friday,21,Afternoon,False,1,0,as planned
+Customer 19,pickup,2022-08-05,pickup,pickup,2022-08-05 10:59:33-04:00,,Friday,10,Morning,False,0,0,as planned
+Customer 50,pickup,2022-08-05,pickup,pickup,2022-08-06 12:57:29-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 33,delivery,2022-08-05,pickup,delivery,2022-08-05 21:55:36-04:00,,Friday,21,Afternoon,False,1,0,as planned
+Customer 48,pickup,2022-08-05,pickup,pickup,2022-08-06 12:24:03-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 26,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:28-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 31,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:34-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 4,pickup,2022-08-05,pickup,pickup,2022-08-06 14:47:43-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 55,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:22-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 14,pickup,2022-08-05,pickup,pickup,2022-08-05 13:05:08-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 12,pickup,2022-08-05,pickup,pickup,2022-08-06 17:00:59-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 39,pickup,2022-08-05,pickup,pickup,2022-08-06 12:36:10-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 42,pickup,2022-08-05,pickup,pickup,2022-08-06 13:43:46-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 29,pickup,2022-08-05,pickup,pickup,2022-08-06 10:47:52-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 10,pickup,2022-08-05,pickup,pickup,2022-08-06 15:43:37-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 5,pickup,2022-08-05,pickup,reallocate,2022-08-06 21:47:55-04:00,2022-08-06,Saturday,21,Afternoon,True,1,1,reallocate
+Customer 52,delivery,2022-08-05,delivery,reallocate,2022-08-06 17:21:03-04:00,,Saturday,17,Afternoon,False,1,1,reallocate
+Customer 47,pickup,2022-08-05,pickup,pickup,2022-08-05 13:19:34-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 38,pickup,2022-08-05,pickup,reallocate,2022-08-06 21:45:55-04:00,,Saturday,21,Afternoon,False,1,1,reallocate
+Customer 44,pickup,2022-08-05,pickup,pickup,2022-08-05 17:16:21-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 37,pickup,2022-08-05,pickup,pickup,2022-08-05 11:43:47-04:00,,Friday,11,Morning,False,0,0,as planned
+Customer 46,pickup,2022-08-05,pickup,pickup,2022-08-05 17:19:34-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 21,delivery,2022-08-05,delivery,delivery,2022-08-05 21:55:27-04:00,,Friday,21,Afternoon,False,0,0,as planned
+Customer 3,pickup,2022-08-12,pickup,pickup,2022-08-13 14:46:49-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 6,pickup,2022-08-12,pickup,pickup,2022-08-12 15:42:48-04:00,,Friday,15,Afternoon,False,0,0,as planned
+Customer 40,delivery,2022-08-12,delivery,delivery,2022-08-12 12:32:14-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 11,delivery,2022-08-12,delivery,delivery,2022-08-13 14:11:18-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-08-12,pickup,pickup,2022-08-13 14:13:52-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 27,pickup,2022-08-12,pickup,pickup,2022-08-13 15:45:49-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 20,pickup,2022-08-12,pickup,pickup,2022-08-12 15:21:33-04:00,,Friday,15,Afternoon,False,0,0,as planned
+Customer 8,pickup,2022-08-12,pickup,pickup,2022-08-13 12:03:28-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 23,pickup,2022-08-12,pickup,pickup,2022-08-12 15:46:59-04:00,,Friday,15,Afternoon,False,0,0,as planned
+Customer 0,delivery,2022-08-12,delivery,delivery,2022-08-12 12:31:55-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 16,delivery,2022-08-12,delivery,delivery,2022-08-12 12:32:03-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 35,pickup,2022-08-12,pickup,pickup,2022-08-13 17:03:42-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 32,pickup,2022-08-12,pickup,pickup,2022-08-13 17:16:34-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 49,pickup,2022-08-12,pickup,pickup,2022-08-13 13:57:19-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 7,pickup,2022-08-12,pickup,pickup,2022-08-13 15:59:24-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-08-12,pickup,pickup,2022-08-13 16:22:15-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 36,delivery,2022-08-12,delivery,delivery,2022-08-12 12:32:13-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 24,pickup,2022-08-12,pickup,pickup,2022-08-13 15:05:05-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 30,delivery,2022-08-12,delivery,delivery,2022-08-12 12:32:10-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 15,delivery,2022-08-12,delivery,delivery,2022-08-12 12:32:02-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 19,pickup,2022-08-12,pickup,pickup,2022-08-12 14:49:09-04:00,,Friday,14,Afternoon,False,0,0,as planned
+Customer 48,pickup,2022-08-12,pickup,pickup,2022-08-12 15:42:44-04:00,,Friday,15,Afternoon,False,0,0,as planned
+Customer 26,delivery,2022-08-12,delivery,delivery,2022-08-12 12:32:09-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 55,delivery,2022-08-12,delivery,delivery,2022-08-12 12:31:57-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 12,pickup,2022-08-12,pickup,pickup,2022-08-13 12:59:13-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 39,pickup,2022-08-12,pickup,pickup,2022-08-13 15:59:32-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 42,pickup,2022-08-12,pickup,pickup,2022-08-13 10:29:48-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 29,pickup,2022-08-12,pickup,pickup,2022-08-13 16:24:33-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 10,pickup,2022-08-12,pickup,pickup,2022-08-13 17:21:00-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 47,pickup,2022-08-12,pickup,pickup,2022-08-12 16:36:28-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 38,pickup,2022-08-12,pickup,pickup,2022-08-12 10:03:28-04:00,,Friday,10,Morning,False,0,0,as planned
+Customer 44,pickup,2022-08-12,pickup,pickup,2022-08-12 17:15:21-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 37,pickup,2022-08-12,pickup,pickup,2022-08-12 11:39:47-04:00,,Friday,11,Morning,False,0,0,as planned
+Customer 46,pickup,2022-08-12,pickup,pickup,2022-08-13 12:52:11-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 3,pickup,2022-08-19,pickup,pickup,2022-08-19 17:23:54-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 6,pickup,2022-08-19,pickup,pickup,2022-08-20 15:30:32-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 40,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:40-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 11,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:31-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 51,pickup,2022-08-19,pickup,pickup,2022-08-20 15:59:04-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 27,pickup,2022-08-19,pickup,pickup,2022-08-20 10:49:57-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 2,delivery,2022-08-19,pickup,pickup,2022-08-20 16:07:34-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 20,pickup,2022-08-19,pickup,pickup,2022-08-19 09:54:22-04:00,,Friday,9,Morning,False,0,0,as planned
+Customer 8,pickup,2022-08-19,pickup,pickup,2022-08-20 16:27:37-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 0,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:25-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 43,pickup,2022-08-19,pickup,pickup,2022-08-20 17:28:48-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 16,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:32-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 35,pickup,2022-08-19,pickup,pickup,2022-08-20 18:28:19-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 32,pickup,2022-08-19,pickup,pickup,2022-08-20 16:15:36-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 7,pickup,2022-08-19,pickup,pickup,2022-08-20 13:21:07-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-08-19,pickup,pickup,2022-08-20 17:03:26-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 36,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:39-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 22,delivery,2022-08-19,pickup,delivery,2022-08-20 10:05:36-04:00,,Saturday,10,Morning,False,1,0,as planned
+Customer 34,pickup,2022-08-19,pickup,pickup,2022-08-20 16:29:19-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 28,pickup,2022-08-19,pickup,pickup,2022-08-20 09:56:34-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 24,pickup,2022-08-19,pickup,pickup,2022-08-20 16:43:16-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 30,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:38-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 15,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:31-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 9,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:28-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 19,pickup,2022-08-19,pickup,pickup,2022-08-20 11:21:48-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 50,pickup,2022-08-19,pickup,pickup,2022-08-20 12:49:49-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 48,pickup,2022-08-19,pickup,pickup,2022-08-20 15:30:20-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 26,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:36-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 31,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:39-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 4,pickup,2022-08-19,pickup,pickup,2022-08-20 15:20:12-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 55,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:26-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 14,pickup,2022-08-19,pickup,pickup,2022-08-19 13:40:39-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 39,pickup,2022-08-19,pickup,pickup,2022-08-20 13:21:13-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 42,pickup,2022-08-19,pickup,pickup,2022-08-20 10:07:05-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 29,pickup,2022-08-19,pickup,pickup,2022-08-20 15:49:05-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 10,pickup,2022-08-19,pickup,pickup,2022-08-20 12:24:05-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 52,delivery,2022-08-19,delivery,delivery,2022-08-20 16:02:06-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 38,pickup,2022-08-19,pickup,pickup,2022-08-19 10:59:19-04:00,,Friday,10,Morning,False,0,0,as planned
+Customer 44,pickup,2022-08-19,pickup,pickup,2022-08-20 16:15:39-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 21,delivery,2022-08-19,delivery,delivery,2022-08-20 10:05:34-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 18,pickup,2022-08-19,pickup,pickup,2022-08-20 16:26:36-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 3,pickup,2022-08-26,pickup,pickup,2022-08-27 14:53:34-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 6,pickup,2022-08-26,pickup,pickup,2022-08-27 15:43:43-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 53,pickup,2022-08-26,pickup,delivery,2022-08-27 19:03:39-04:00,,Saturday,19,Afternoon,False,1,1,delivery
+Customer 40,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:46-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 11,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:42-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-08-26,pickup,pickup,2022-08-27 15:14:31-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 27,pickup,2022-08-26,pickup,reallocate,2022-08-27 17:14:29-04:00,,Saturday,17,Afternoon,False,1,1,reallocate
+Customer 2,delivery,2022-08-26,pickup,pickup,2022-08-26 13:47:23-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 20,pickup,2022-08-26,pickup,pickup,2022-08-26 14:04:35-04:00,,Friday,14,Afternoon,False,0,0,as planned
+Customer 8,pickup,2022-08-26,pickup,reallocate,2022-08-27 16:49:51-04:00,,Saturday,16,Afternoon,False,1,1,reallocate
+Customer 23,pickup,2022-08-26,pickup,delivery,2022-08-27 19:08:58-04:00,,Saturday,19,Afternoon,False,1,1,delivery
+Customer 0,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:39-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 43,pickup,2022-08-26,pickup,pickup,2022-08-27 18:47:41-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 16,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:43-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 35,pickup,2022-08-26,pickup,pickup,2022-08-27 18:36:13-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 32,pickup,2022-08-26,pickup,pickup,2022-08-27 17:14:31-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 49,pickup,2022-08-26,pickup,delivery,2022-08-27 19:58:37-04:00,,Saturday,19,Afternoon,False,1,1,delivery
+Customer 7,pickup,2022-08-26,pickup,pickup,2022-08-27 14:46:17-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-08-26,pickup,reallocate,2022-08-26 13:47:40-04:00,,Friday,13,Afternoon,False,1,1,reallocate
+Customer 36,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:46-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 22,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:44-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 34,pickup,2022-08-26,pickup,pickup,2022-08-27 15:43:00-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 28,pickup,2022-08-26,pickup,pickup,2022-08-27 11:25:23-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 24,pickup,2022-08-26,pickup,pickup,2022-08-27 17:01:21-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 30,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:45-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 15,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:42-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 9,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:41-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 19,pickup,2022-08-26,pickup,pickup,2022-08-27 11:24:17-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 50,pickup,2022-08-26,pickup,pickup,2022-08-27 12:36:35-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 33,delivery,2022-08-26,delivery,reallocate,2022-08-26 13:47:39-04:00,,Friday,13,Afternoon,False,1,1,reallocate
+Customer 48,pickup,2022-08-26,pickup,pickup,2022-08-27 15:43:45-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 26,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:44-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 31,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:46-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 4,pickup,2022-08-26,pickup,reallocate,2022-08-27 19:23:56-04:00,,Saturday,19,Afternoon,False,1,1,reallocate
+Customer 55,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:41-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 14,pickup,2022-08-26,pickup,reallocate,2022-08-26 13:47:38-04:00,,Friday,13,Afternoon,False,1,1,reallocate
+Customer 12,pickup,2022-08-26,pickup,pickup,2022-08-26 12:56:03-04:00,,Friday,12,Morning,False,0,0,as planned
+Customer 39,pickup,2022-08-26,pickup,pickup,2022-08-27 14:46:19-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 42,pickup,2022-08-26,pickup,pickup,2022-08-26 13:40:08-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 10,pickup,2022-08-26,pickup,pickup,2022-08-27 14:14:33-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 52,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:40-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 47,pickup,2022-08-26,pickup,pickup,2022-08-27 14:01:07-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 38,pickup,2022-08-26,pickup,reallocate,2022-08-27 19:23:54-04:00,,Saturday,19,Afternoon,False,1,1,reallocate
+Customer 44,pickup,2022-08-26,pickup,pickup,2022-08-26 22:22:29-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 37,pickup,2022-08-26,pickup,reallocate,2022-08-27 16:37:17-04:00,,Saturday,16,Afternoon,False,1,1,reallocate
+Customer 46,pickup,2022-08-26,pickup,pickup,2022-08-27 11:15:19-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 21,delivery,2022-08-26,delivery,delivery,2022-08-26 22:22:43-04:00,,Friday,22,Afternoon,False,0,0,as planned
+Customer 18,pickup,2022-08-26,pickup,pickup,2022-08-27 09:12:40-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 54,pickup,2022-08-26,pickup,delivery,2022-08-27 19:29:20-04:00,,Saturday,19,Afternoon,False,1,1,delivery
+Customer 3,pickup,2022-09-02,pickup,pickup,2022-09-02 17:32:54-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 6,pickup,2022-09-02,pickup,pickup,2022-09-03 16:45:05-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 53,pickup,2022-09-02,pickup,reallocate,2022-09-03 19:42:35-04:00,,Saturday,19,Afternoon,False,1,1,reallocate
+Customer 40,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:41-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 11,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:20-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-09-02,pickup,delivery,2022-09-03 19:38:09-04:00,,Saturday,19,Afternoon,False,1,1,delivery
+Customer 27,pickup,2022-09-02,pickup,pickup,2022-09-03 09:37:46-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 2,delivery,2022-09-02,pickup,delivery,2022-09-03 19:36:49-04:00,,Saturday,19,Afternoon,False,1,0,as planned
+Customer 20,pickup,2022-09-02,pickup,pickup,2022-09-02 16:04:49-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 8,pickup,2022-09-02,pickup,pickup,2022-09-03 10:44:22-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 23,pickup,2022-09-02,pickup,pickup,2022-09-03 17:54:42-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 0,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:16-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 43,pickup,2022-09-02,pickup,pickup,2022-09-03 14:19:56-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 16,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:23-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 35,pickup,2022-09-02,pickup,delivery,2022-09-03 19:36:52-04:00,,Saturday,19,Afternoon,False,1,1,delivery
+Customer 32,pickup,2022-09-02,pickup,pickup,2022-09-03 13:01:24-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 49,pickup,2022-09-02,pickup,pickup,2022-09-03 18:09:14-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 7,pickup,2022-09-02,pickup,pickup,2022-09-03 13:33:17-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-09-02,pickup,pickup,2022-09-03 11:41:16-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 36,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:40-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 22,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:35-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 34,pickup,2022-09-02,pickup,pickup,2022-09-03 13:50:33-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 28,pickup,2022-09-02,pickup,pickup,2022-09-03 13:39:01-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 24,pickup,2022-09-02,pickup,delivery,2022-09-03 19:36:51-04:00,,Saturday,19,Afternoon,False,1,1,delivery
+Customer 30,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:33-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 15,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:22-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 9,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:18-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 19,pickup,2022-09-02,pickup,pickup,2022-09-02 16:19:10-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 50,pickup,2022-09-02,pickup,pickup,2022-09-03 12:53:05-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 33,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:39-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 48,pickup,2022-09-02,pickup,pickup,2022-09-03 16:45:06-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 26,delivery,2022-09-02,delivery,delivery,2022-09-02 16:59:02-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 31,delivery,2022-09-02,delivery,delivery,2022-09-02 16:59:03-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 4,pickup,2022-09-02,pickup,pickup,2022-09-03 13:51:54-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 55,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:17-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 14,pickup,2022-09-02,pickup,pickup,2022-09-02 15:13:46-04:00,,Friday,15,Afternoon,False,0,0,as planned
+Customer 12,pickup,2022-09-02,pickup,pickup,2022-09-02 17:28:45-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 39,pickup,2022-09-02,pickup,pickup,2022-09-03 13:33:11-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 42,pickup,2022-09-02,pickup,pickup,2022-09-03 11:05:23-04:00,,Saturday,11,Morning,False,0,0,as planned
+Customer 29,pickup,2022-09-02,pickup,pickup,2022-09-02 16:53:34-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 10,pickup,2022-09-02,pickup,pickup,2022-09-03 14:20:34-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 52,delivery,2022-09-02,delivery,reallocate,2022-09-02 14:12:49-04:00,,Friday,14,Afternoon,False,1,1,reallocate
+Customer 47,pickup,2022-09-02,pickup,pickup,2022-09-02 13:37:37-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 38,pickup,2022-09-02,pickup,pickup,2022-09-02 14:24:07-04:00,,Friday,14,Afternoon,False,0,0,as planned
+Customer 44,pickup,2022-09-02,pickup,pickup,2022-09-02 17:17:10-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 37,pickup,2022-09-02,pickup,pickup,2022-09-03 09:30:09-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 46,pickup,2022-09-02,pickup,reallocate,2022-09-03 19:42:37-04:00,,Saturday,19,Afternoon,False,1,1,reallocate
+Customer 21,delivery,2022-09-02,delivery,delivery,2022-09-02 13:13:36-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 18,pickup,2022-09-02,pickup,pickup,2022-09-03 09:04:07-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 54,pickup,2022-09-02,pickup,reallocate,2022-09-03 19:42:38-04:00,,Saturday,19,Afternoon,False,1,1,reallocate
+Customer 3,pickup,2022-09-09,pickup,pickup,2022-09-10 15:16:34-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 6,pickup,2022-09-09,pickup,pickup,2022-09-10 16:27:42-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 40,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:50-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 11,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:43-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-09-09,pickup,pickup,2022-09-09 17:46:22-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 27,pickup,2022-09-09,pickup,pickup,2022-09-10 10:17:31-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 2,delivery,2022-09-09,pickup,delivery,2022-09-09 17:35:41-04:00,,Friday,17,Afternoon,False,1,0,as planned
+Customer 20,pickup,2022-09-09,pickup,pickup,2022-09-09 09:24:02-04:00,,Friday,9,Morning,False,0,0,as planned
+Customer 8,pickup,2022-09-09,pickup,pickup,2022-09-10 12:17:14-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 23,pickup,2022-09-09,pickup,pickup,2022-09-10 14:28:39-04:00,,Saturday,14,Afternoon,False,0,0,as planned
+Customer 0,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:38-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 43,pickup,2022-09-09,pickup,reallocate,2022-09-09 17:54:56-04:00,,Friday,17,Afternoon,False,1,1,reallocate
+Customer 16,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:45-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 32,pickup,2022-09-09,pickup,pickup,2022-09-10 16:24:43-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 49,pickup,2022-09-09,pickup,pickup,2022-09-10 18:02:25-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 7,pickup,2022-09-09,pickup,pickup,2022-09-10 15:35:03-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 41,pickup,2022-09-09,pickup,pickup,2022-09-10 16:27:48-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 36,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:50-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 22,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:47-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 28,pickup,2022-09-09,pickup,pickup,2022-09-10 12:53:06-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 24,pickup,2022-09-09,pickup,pickup,2022-09-10 16:56:27-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 30,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:48-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 15,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:44-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 19,pickup,2022-09-09,pickup,pickup,2022-09-10 16:58:33-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 50,pickup,2022-09-09,pickup,pickup,2022-09-09 16:34:19-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 33,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:49-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 48,pickup,2022-09-09,pickup,pickup,2022-09-10 17:24:32-04:00,,Saturday,17,Afternoon,False,0,0,as planned
+Customer 26,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:48-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 31,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:49-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 55,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:40-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 14,pickup,2022-09-09,pickup,pickup,2022-09-09 13:22:10-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 12,pickup,2022-09-09,pickup,pickup,2022-09-10 13:26:01-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 39,pickup,2022-09-09,pickup,pickup,2022-09-10 15:35:09-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 42,pickup,2022-09-09,pickup,pickup,2022-09-10 12:17:17-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 29,pickup,2022-09-09,pickup,pickup,2022-09-10 16:06:10-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 10,pickup,2022-09-09,pickup,pickup,2022-09-10 09:39:05-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 52,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:39-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 47,pickup,2022-09-09,pickup,pickup,2022-09-09 11:52:23-04:00,,Friday,11,Morning,False,0,0,as planned
+Customer 38,pickup,2022-09-09,pickup,reallocate,2022-09-10 16:30:34-04:00,,Saturday,16,Afternoon,False,1,1,reallocate
+Customer 44,pickup,2022-09-09,pickup,pickup,2022-09-09 17:28:29-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 37,pickup,2022-09-09,pickup,pickup,2022-09-10 10:41:54-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 46,pickup,2022-09-09,pickup,pickup,2022-09-10 15:24:45-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 21,delivery,2022-09-09,delivery,delivery,2022-09-09 17:35:46-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 18,pickup,2022-09-09,pickup,pickup,2022-09-09 15:50:40-04:00,,Friday,15,Afternoon,False,0,0,as planned
+Customer 54,pickup,2022-09-09,pickup,pickup,2022-09-10 13:17:35-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 3,pickup,2022-09-16,pickup,pickup,2022-09-16 17:16:08-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 6,pickup,2022-09-16,pickup,pickup,2022-09-17 12:49:20-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 53,pickup,2022-09-16,pickup,pickup,2022-09-17 13:54:19-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 40,delivery,2022-09-16,delivery,delivery,2022-09-16 19:05:41-04:00,,Friday,19,Afternoon,False,0,0,as planned
+Customer 11,delivery,2022-09-16,delivery,delivery,2022-09-16 19:27:08-04:00,,Friday,19,Afternoon,False,0,0,as planned
+Customer 51,pickup,2022-09-16,pickup,reallocate,2022-09-16 10:00:55-04:00,,Friday,10,Morning,False,1,1,reallocate
+Customer 27,pickup,2022-09-16,pickup,pickup,2022-09-17 09:16:21-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 2,delivery,2022-09-16,delivery,delivery,2022-09-16 19:09:28-04:00,,Friday,19,Afternoon,False,0,0,as planned
+Customer 20,pickup,2022-09-16,pickup,pickup,2022-09-16 10:58:54-04:00,,Friday,10,Morning,False,0,0,as planned
+Customer 8,pickup,2022-09-16,pickup,pickup,2022-09-17 12:00:38-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 23,pickup,2022-09-16,pickup,pickup,2022-09-16 17:21:35-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 0,delivery,2022-09-16,delivery,delivery,2022-09-16 18:30:33-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 43,pickup,2022-09-16,pickup,pickup,2022-09-17 15:46:47-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 16,delivery,2022-09-16,delivery,delivery,2022-09-16 18:32:54-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 32,pickup,2022-09-16,pickup,pickup,2022-09-17 13:32:30-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 49,pickup,2022-09-16,pickup,pickup,2022-09-17 18:06:13-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 7,pickup,2022-09-16,pickup,pickup,2022-09-17 10:07:36-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 41,pickup,2022-09-16,pickup,pickup,2022-09-16 11:10:21-04:00,,Friday,11,Morning,False,0,0,as planned
+Customer 36,delivery,2022-09-16,delivery,delivery,2022-09-16 19:29:42-04:00,,Friday,19,Afternoon,False,0,0,as planned
+Customer 22,delivery,2022-09-16,delivery,delivery,2022-09-17 18:42:27-04:00,,Saturday,18,Afternoon,False,0,0,as planned
+Customer 28,pickup,2022-09-16,pickup,pickup,2022-09-17 13:38:22-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 24,pickup,2022-09-16,pickup,pickup,2022-09-17 16:58:29-04:00,,Saturday,16,Afternoon,False,0,0,as planned
+Customer 30,delivery,2022-09-16,delivery,delivery,2022-09-16 18:32:59-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 15,delivery,2022-09-16,delivery,delivery,2022-09-16 19:27:04-04:00,,Friday,19,Afternoon,False,0,0,as planned
+Customer 9,delivery,2022-09-16,delivery,delivery,2022-09-16 19:30:42-04:00,,Friday,19,Afternoon,False,0,0,as planned
+Customer 19,pickup,2022-09-16,pickup,pickup,2022-09-17 09:54:52-04:00,,Saturday,9,Morning,False,0,0,as planned
+Customer 50,pickup,2022-09-16,pickup,pickup,2022-09-17 12:33:59-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 33,delivery,2022-09-16,delivery,delivery,2022-09-16 18:41:51-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 48,pickup,2022-09-16,pickup,pickup,2022-09-17 12:49:18-04:00,,Saturday,12,Morning,False,0,0,as planned
+Customer 26,delivery,2022-09-16,delivery,delivery,2022-09-16 18:52:29-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 31,delivery,2022-09-16,delivery,delivery,2022-09-16 19:23:41-04:00,,Friday,19,Afternoon,False,0,0,as planned
+Customer 55,delivery,2022-09-16,delivery,delivery,2022-09-16 18:43:55-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 14,pickup,2022-09-16,pickup,pickup,2022-09-16 16:28:10-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 12,pickup,2022-09-16,pickup,pickup,2022-09-16 17:45:41-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 39,pickup,2022-09-16,pickup,pickup,2022-09-17 10:04:40-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 42,pickup,2022-09-16,pickup,pickup,2022-09-16 14:10:04-04:00,,Friday,14,Afternoon,False,0,0,as planned
+Customer 29,pickup,2022-09-16,pickup,pickup,2022-09-17 15:46:49-04:00,,Saturday,15,Afternoon,False,0,0,as planned
+Customer 10,pickup,2022-09-16,pickup,pickup,2022-09-17 10:00:12-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 52,delivery,2022-09-16,delivery,reallocate,2022-09-16 10:00:54-04:00,,Friday,10,Morning,False,1,1,reallocate
+Customer 47,pickup,2022-09-16,pickup,pickup,2022-09-16 16:39:49-04:00,,Friday,16,Afternoon,False,0,0,as planned
+Customer 38,pickup,2022-09-16,pickup,pickup,2022-09-16 13:12:52-04:00,,Friday,13,Afternoon,False,0,0,as planned
+Customer 44,pickup,2022-09-16,pickup,pickup,2022-09-16 17:44:03-04:00,,Friday,17,Afternoon,False,0,0,as planned
+Customer 37,pickup,2022-09-16,pickup,pickup,2022-09-17 10:42:40-04:00,,Saturday,10,Morning,False,0,0,as planned
+Customer 46,pickup,2022-09-16,pickup,pickup,2022-09-17 13:04:54-04:00,,Saturday,13,Afternoon,False,0,0,as planned
+Customer 21,delivery,2022-09-16,delivery,delivery,2022-09-16 18:52:29-04:00,,Friday,18,Afternoon,False,0,0,as planned
+Customer 18,pickup,2022-09-16,pickup,pickup,2022-09-17 10:32:37-04:00,,Saturday,10,Morning,False,0,0,as planned
